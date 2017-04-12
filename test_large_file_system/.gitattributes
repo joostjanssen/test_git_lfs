@@ -1,1 +1,1 @@
-Assets/large_file_system/ filter=lfs diff=lfs merge=lfs -text
+Assets/large_file_system/* filter=lfs diff=lfs merge=lfs -text
